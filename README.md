@@ -2,6 +2,8 @@
 repositories I no longer work on.  This helps me keep focused and avoids
 confusion for interested visitors.
 
+Note that the repositories are all archived and only [visible using the `Type: Archived` filter](https://github.com/felixrabe-attic?utf8=%E2%9C%93&q=&type=archived&language=).
+
 
 ## Licensing
 
