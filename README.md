@@ -6,6 +6,10 @@ confusion for interested visitors.
 
 -   https://github.com/felixrabe-attic/attic--readme
 
+-   https://github.com/felixrabe-attic/encouragers--blog
+
+-   https://github.com/felixrabe-attic/schlauzeug--install-phonegap
+
 # Licensing
 
 If you wish to use some of my archived code under a different license, feel
