@@ -27,7 +27,6 @@ Ordered alphabetically.
 -   https://github.com/felixrabe-attic/felixrabe--ffhs-swe-chat
 -   https://github.com/felixrabe-attic/felixrabe--ffhs-wswp-projekt
 -   https://github.com/felixrabe-attic/felixrabe--fig-nodejs-mongodb-example
--   https://github.com/felixrabe-attic/felixrabe--fuse-box
 -   https://github.com/felixrabe-attic/felixrabe--gobox
 -   https://github.com/felixrabe-attic/felixrabe--gulp-setup
 -   https://github.com/felixrabe-attic/felixrabe--Hanoi
@@ -44,7 +43,6 @@ Ordered alphabetically.
 -   https://github.com/felixrabe-attic/felixrabe--node-webkit-with-fibers
 -   https://github.com/felixrabe-attic/felixrabe--Pend
 -   https://github.com/felixrabe-attic/felixrabe--polyport-prototype-1
--   https://github.com/felixrabe-attic/felixrabe--rollup-plugin-commonjs
 -   https://github.com/felixrabe-attic/felixrabe--rpi-mediawiki
 -   https://github.com/felixrabe-attic/felixrabe--scaffold
 -   https://github.com/felixrabe-attic/felixrabe--twomodels
@@ -93,6 +91,7 @@ Ordered alphabetically.
 
 -   https://github.com/felixrabe-attic/felixrabe--docker-osx
 -   https://github.com/felixrabe-attic/felixrabe--fontforge.github.com
+-   https://github.com/felixrabe-attic/felixrabe--fuse-box
 -   https://github.com/felixrabe-attic/felixrabe--impress.js
 -   https://github.com/felixrabe-attic/felixrabe--mediawiki-nginx
 -   https://github.com/felixrabe-attic/felixrabe--meteor-cookbook
@@ -104,6 +103,7 @@ Ordered alphabetically.
 -   https://github.com/felixrabe-attic/felixrabe--node-lazy
 -   https://github.com/felixrabe-attic/felixrabe--qml
 -   https://github.com/felixrabe-attic/felixrabe--raspbian-ua-netinst
+-   https://github.com/felixrabe-attic/felixrabe--rollup-plugin-commonjs
 -   https://github.com/felixrabe-attic/felixrabe--Sublime-Missing-Palette-Commands
 -   https://github.com/felixrabe-attic/felixrabe-go--go-fb
 -   https://github.com/felixrabe-attic/gentlefn--zeromqt
