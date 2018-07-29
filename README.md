@@ -3,28 +3,22 @@ repositories I no longer work on.  This helps me keep focused and avoids
 confusion for interested visitors.
 
 
+## Licensing
+
+If you wish to use some of my archived code under a different license, feel
+free to open an issue.
+
+
 # Table of Contents
 
-Ordered alphabetically:
+Ordered alphabetically.
+
+
+## Sources
 
 -   https://github.com/felixrabe-attic/attic--readme
 -   https://github.com/felixrabe-attic/encouragers--blog
--   https://github.com/felixrabe-attic/felixrabe--docker-osx
--   https://github.com/felixrabe-attic/felixrabe--fontforge.github.com
--   https://github.com/felixrabe-attic/felixrabe--impress.js
--   https://github.com/felixrabe-attic/felixrabe--mediawiki-nginx
--   https://github.com/felixrabe-attic/felixrabe--meteor-cookbook
--   https://github.com/felixrabe-attic/felixrabe--ndn-js
--   https://github.com/felixrabe-attic/felixrabe--ndnrtc-archive
--   https://github.com/felixrabe-attic/felixrabe--NFD
--   https://github.com/felixrabe-attic/felixrabe--NLSR
--   https://github.com/felixrabe-attic/felixrabe--node
--   https://github.com/felixrabe-attic/felixrabe--node-lazy
--   https://github.com/felixrabe-attic/felixrabe--qml
--   https://github.com/felixrabe-attic/felixrabe--raspbian-ua-netinst
--   https://github.com/felixrabe-attic/felixrabe--Sublime-Missing-Palette-Commands
 -   https://github.com/felixrabe-attic/felixrabe-go--encoding-xml-fork
--   https://github.com/felixrabe-attic/felixrabe-go--go-fb
 -   https://github.com/felixrabe-attic/felixrabe-go--html
 -   https://github.com/felixrabe-attic/felixrabe-go--limited-http-static-server
 -   https://github.com/felixrabe-attic/felixrabe-go--limited-netcat
@@ -49,7 +43,6 @@ Ordered alphabetically:
 -   https://github.com/felixrabe-attic/gentlefn--gentledb4python
 -   https://github.com/felixrabe-attic/gentlefn--gentledb4qt
 -   https://github.com/felixrabe-attic/gentlefn--qjson
--   https://github.com/felixrabe-attic/gentlefn--zeromqt
 -   https://github.com/felixrabe-attic/mcrio--bashsh
 -   https://github.com/felixrabe-attic/mcrio--quk
 -   https://github.com/felixrabe-attic/mcrio--smal
@@ -57,13 +50,27 @@ Ordered alphabetically:
 -   https://github.com/felixrabe-attic/mcrio--smal-html
 -   https://github.com/felixrabe-attic/mcrio--stdlib
 -   https://github.com/felixrabe-attic/mcrio--tiptip
--   https://github.com/felixrabe-attic/named-data-education--homebrew
 -   https://github.com/felixrabe-attic/named-data-education--ndn-with-docker
 -   https://github.com/felixrabe-attic/named-data-education--ndn-with-vagrant
 -   https://github.com/felixrabe-attic/schlauzeug--install-phonegap
 
 
-# Licensing
+## Forks
 
-If you wish to use some of my archived code under a different license, feel
-free to open an issue.
+-   https://github.com/felixrabe-attic/felixrabe--docker-osx
+-   https://github.com/felixrabe-attic/felixrabe--fontforge.github.com
+-   https://github.com/felixrabe-attic/felixrabe--impress.js
+-   https://github.com/felixrabe-attic/felixrabe--mediawiki-nginx
+-   https://github.com/felixrabe-attic/felixrabe--meteor-cookbook
+-   https://github.com/felixrabe-attic/felixrabe--ndn-js
+-   https://github.com/felixrabe-attic/felixrabe--ndnrtc-archive
+-   https://github.com/felixrabe-attic/felixrabe--NFD
+-   https://github.com/felixrabe-attic/felixrabe--NLSR
+-   https://github.com/felixrabe-attic/felixrabe--node
+-   https://github.com/felixrabe-attic/felixrabe--node-lazy
+-   https://github.com/felixrabe-attic/felixrabe--qml
+-   https://github.com/felixrabe-attic/felixrabe--raspbian-ua-netinst
+-   https://github.com/felixrabe-attic/felixrabe--Sublime-Missing-Palette-Commands
+-   https://github.com/felixrabe-attic/felixrabe-go--go-fb
+-   https://github.com/felixrabe-attic/gentlefn--zeromqt
+-   https://github.com/felixrabe-attic/named-data-education--homebrew
