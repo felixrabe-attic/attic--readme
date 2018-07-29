@@ -9,6 +9,20 @@ Ordered alphabetically:
 
 -   https://github.com/felixrabe-attic/attic--readme
 -   https://github.com/felixrabe-attic/encouragers--blog
+-   https://github.com/felixrabe-attic/felixrabe--docker-osx
+-   https://github.com/felixrabe-attic/felixrabe--fontforge.github.com
+-   https://github.com/felixrabe-attic/felixrabe--impress.js
+-   https://github.com/felixrabe-attic/felixrabe--mediawiki-nginx
+-   https://github.com/felixrabe-attic/felixrabe--meteor-cookbook
+-   https://github.com/felixrabe-attic/felixrabe--ndn-js
+-   https://github.com/felixrabe-attic/felixrabe--ndnrtc-archive
+-   https://github.com/felixrabe-attic/felixrabe--NFD
+-   https://github.com/felixrabe-attic/felixrabe--NLSR
+-   https://github.com/felixrabe-attic/felixrabe--node
+-   https://github.com/felixrabe-attic/felixrabe--node-lazy
+-   https://github.com/felixrabe-attic/felixrabe--qml
+-   https://github.com/felixrabe-attic/felixrabe--raspbian-ua-netinst
+-   https://github.com/felixrabe-attic/felixrabe--Sublime-Missing-Palette-Commands
 -   https://github.com/felixrabe-attic/felixrabe-go--encoding-xml-fork
 -   https://github.com/felixrabe-attic/felixrabe-go--go-fb
 -   https://github.com/felixrabe-attic/felixrabe-go--html
