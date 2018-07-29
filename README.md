@@ -1,4 +1,4 @@
-This is where I ([felixrabe](https://github.com/felixrabe/)) move any
+[This](https://github.com/felixrabe-attic) is where I ([felixrabe](https://github.com/felixrabe)) move any
 repositories I no longer work on.  This helps me keep focused and avoids
 confusion for interested visitors.
 
